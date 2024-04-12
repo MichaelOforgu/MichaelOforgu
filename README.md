@@ -12,7 +12,7 @@ Here are some of the tools and technologies I frequently work with:
 
 - Languages: Python, R, SQL
 - Libraries/Frameworks: TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
-- Visualization: Tableau, Plotly, Matplotlib, Seaborn
+- Visualization: PowerBI, Tableau, Plotly, Matplotlib, Seaborn
 - Databases: MySQL, PostgreSQL, MongoDB
 
 ## My Projects
