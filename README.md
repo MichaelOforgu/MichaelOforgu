@@ -6,11 +6,12 @@
 - 🌐 I'm always eager to collaborate on exciting data-related projects or discuss technology and data science topics.
 
 ## How to Reach Me
-- 📧 Feel free to reach out to me via email: *[email](chukwuka.oforgu@gmail.com)*
-- 💬 Connect with me on LinkedIn *[LinkedIn](https://www.linkedin.com/in/chukwuka-oforgu/)*
+- 📧 Feel free to reach out to me via *[email](chukwuka.oforgu@gmail.com)*
+- 💬 Connect with me on *[LinkedIn](https://www.linkedin.com/in/chukwuka-oforgu/)*
 
 ## Projects
 - 📂 You can check out some of my work and projects on my GitHub profile.
+- 💻 View my Interactive dashboards on *[novyPro Project Portfolio](https://www.novypro.com/profile_projects/chukwuka-oforgu)* 
 
 ## Skills
 - 📊 Data Analysis
