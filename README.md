@@ -4,6 +4,7 @@
 - 📚 I'm currently studying Masters in Data Science and exploring further the fascinating world of data analysis, data visualization, and technology.
 - 💼 I'm passionate Data Analyst dedicated to transforming complex data into actionable insights.
 - 🌐 I'm always eager to collaborate on exciting data-related projects or discuss technology and data science topics.
+- 📉 I'm a Microsoft Certified: Power BI Data Analyst Associate.
 
 ## How to Reach Me
 - 📧 Feel free to reach out to me via *[email](chukwuka.oforgu@gmail.com)*
