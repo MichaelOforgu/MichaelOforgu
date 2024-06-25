@@ -2,7 +2,7 @@
 
 ## About Me
 - 📉 I'm a Microsoft Certified: Power BI Data Analyst Associate.
-- 📚 I'm currently studying Masters in Data Science and exploring further the fascinating world of data analysis, data visualization, and technology.
+- 📚 I'm currently studying Masters in Data Science and exploring further the fascinating world of data and technology.
 - 💼 I'm passionate Data Analyst dedicated to transforming complex data into actionable insights.
 - 🌐 I'm always eager to collaborate on exciting data-related projects or discuss technology and data science topics.
 
